@@ -8,6 +8,32 @@ I am a Backend Engineer at [GitLab](https://gitlab.com). I love to contribute to
 - 📫 How to reach me: hello@shubham-kumar.com
 - 😄 Pronouns: He/Him.
 - **📫 Newsletter: [Join](https://shubham-kumar.com)**
+<!-- Tech Stack Card -->
+<div style="display:flex;flex-wrap:wrap;gap:7px;line-height:0;margin:0 0 10px 0;">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-58A6FF?logo=react&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-003545?logo=mysql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white" />
+  <img alt="GCP" src="https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white" />
+  <img alt="DynamoDB" src="https://img.shields.io/badge/-DynamoDB-4053D6?logo=amazon-aws&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" />
+  <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-EC6813?logo=tableau&logoColor=white" />
+</div>
+<!-- End Tech Stack Card -->
 
 - **Youtube: [Subscribe](https://www.youtube.com/channel/UC7-FIPYuGBxD5RzInWIXF4w)**
 
